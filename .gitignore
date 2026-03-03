@@ -11,7 +11,7 @@ venv/
 env/
 
 # 出力・ログ（クローン先で実行時に生成）
-data/out/*.csv
+# data/out はプッシュに含める
 logs/*.log
 logs/*.csv
 
